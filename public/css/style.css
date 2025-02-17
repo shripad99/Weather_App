@@ -63,6 +63,8 @@ h2 {
   padding-right: 50px; /* Space for the icon */
   text-align: center;
   font-size: 20px;
+  outline: none;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .search-button {
